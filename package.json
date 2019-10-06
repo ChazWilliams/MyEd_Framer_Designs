@@ -1,0 +1,43 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-hand-iphone-1": "^1.0.0",
+		"@framer/framer.device-hand-iphone-2": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xr-blue": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "e94f0463-f5de-41ad-91db-ae651d27b7ff"
+	},
+	"author": "Charlie Williams",
+	"dependencies": {
+		"@framer/apetrov.timenow": "^1.1.0",
+		"@framer/benjamin.animator": "^1.4.0",
+		"@framer/benjamin.arc": "^1.2.0",
+		"@framer/benjamin.arconic": "^1.4.0",
+		"@framer/benjamin.super-ellipse": "^1.2.0",
+		"@framer/bfagan.slide-to-reveal-actions": "^1.8.0",
+		"@framer/edoardo.ios-kit": "^1.6.0",
+		"@framer/edoardo.web-ui-kit": "^1.1.0",
+		"@framer/framer.base": "^1.0.0",
+		"@framer/framer.examples": "^1.7.0",
+		"@framer/gusso.magic-move": "^3.7.0",
+		"@framer/kasimir.iphone-x-kit": "^1.21.0",
+		"@framer/krijn.video-player": "^1.14.0",
+		"@framer/lada.simple-avatars-wip": "^1.3.0",
+		"@framer/mapbox.mapbox": "^1.3.0",
+		"@framer/perrysmotors.sticky-headers": "^2.3.0",
+		"@framer/steveframer.education": "^1.3.0",
+		"@framer/steveruizok.framespy": "^1.4.0",
+		"@framer/steveruizok.undraw": "^1.0.0",
+		"@framer/tes.ios-13-segmented-control": "^1.35.0",
+		"chart.js": "^2.8.0"
+	}
+}
